@@ -14,7 +14,7 @@ public class ElectronicProduct extends Product {
      public void display(){
          super.display();
 
-         System.out.println("Warranty    :  " +warrantyYear + "Year");
+         System.out.println("Warranty    :  " + warrantyYear + "Year");
          System.out.println("Power       :   " + powerConsumption + "W");
      }
 
